@@ -12,6 +12,7 @@ I may expand and update the material as I see fit.
 |---|---|
 | [Detection and hunting queries](detection-rules/README.md) | KQL examples for endpoint, identity and email investigations |
 | [Investigation walkthroughs](investigation-walkthroughs/README.md) | Interpreting security telemetry, evaluating suspicious behavior and practicing investigative decisions |
+| [KQL Query Reference](kql-reference/README.md) | Time filtering, `bin()`, aggregations, unique counts, calculated fields and practical examples |
 
 ## Hunting queries
 
